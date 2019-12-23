@@ -1,0 +1,38 @@
+body
+{
+    background-color: rgba(255, 255, 255, 0.918);
+}
+
+#bloc
+{
+    width: 90%;
+    height: 100%;
+    min-width: 400px;
+    min-height: 100px;
+    margin: 0;
+    border-left: 100px grey solid;
+ 
+}
+
+h1
+{
+    text-align: center;
+}
+
+h2
+{
+    color: rgb(187, 134, 0);
+    text-align: center;
+
+}
+
+.statut
+{
+    text-align: center;
+}
+
+#conteneur
+{
+    display: flex;
+    justify-content: center;
+}
